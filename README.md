@@ -12,10 +12,6 @@ Result: Due to time constraints, there wasn't enough time to clean enough of the
 
 - [US 2015 AHAR: Part 1 - PIT Estimates of Homelessness in the U.S.](https://www.hudexchange.info/resource/4832/2015-ahar-part-1-pit-estimates-of-homelessness/), [PDF for AHAR 2015](https://www.huduser.gov/portal/sites/default/files/pdf/2015-AHAR-Part-1.pdf)
 
-unused
-- [US Data Homelessness](https://datahub.io/gavram/homelessness#readme): `us_data_homelessness_by_year.csv`
-
-
 
 
 ### Terms
