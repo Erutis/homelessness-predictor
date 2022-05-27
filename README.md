@@ -2,9 +2,7 @@
 
 The purpose of this project is to see if we can predict homelessness by city from the city's budget. The hypothesis here is that something in the way that a city decides to spend its funds will give an insight to a model on how to predict number of homeless.
 
-Homelessness is determined by a number of different definitions.
-
-On a single night, usually in January, there is a count of homeless done. So overall, the number of homeless is vastly undercounted because counts are done once a year in January, when the least number of people would be seen out of doors. 
+Result: Due to time constraints, there wasn't enough time to clean enough of the data to create a good predictive model for homelessness from city budget. However, when running just the city budget data, a DecisionTreeRegressor was able to account for the variability in test values 91% of the time. 
 
 ### Data Sources
 - [FISC Database](https://www.lincolninst.edu/research-data/data-toolkits/fiscally-standardized-cities/search-database): `fisc_full_dataset_2017_update(1).xlsx`, `fisc_data.csv` derived from the Excel. The **Fiscally Standardized Cities (FiSC)** database makes it possible to compare local government finances for over 200 of the largest U.S. cities across more than 120 categories of revenues, expenditures, debt, and assets. 
