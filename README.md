@@ -10,4 +10,4 @@
 
 ### Terms
 
-- CoC: **The Continuum of Care (CoC) Homeless Assistance Program** assists individuals and families experiencing homelessness by helping homeless individuals and families move into transitional and permanent housing.
+- CoC: **The Continuum of Care (CoC) Homeless Assistance Program** assists individuals and families experiencing homelessness by helping homeless individuals and families move into transitional and permanent housing. I
